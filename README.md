@@ -1,2 +1,2 @@
 # derrek's world 
-# fe
+# frontend application
