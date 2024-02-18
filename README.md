@@ -1,2 +1,2 @@
 # derrek's world 
-# frontend application
+# frontend
